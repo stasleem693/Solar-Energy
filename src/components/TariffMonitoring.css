@@ -1,0 +1,50 @@
+/* TariffMonitoring.css */
+.tariff-container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #e8f5e9; /* Light green background */
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  color: #004d40; /* Dark green text */
+}
+
+.tariff-title {
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  color: #2e7d32; /* Darker green for emphasis */
+}
+
+.tariff-description {
+  font-size: 18px;
+  text-align: center;
+  margin: 10px 0;
+  font-style: italic;
+  color: #004d40;
+}
+
+.tariff-features {
+  margin-top: 20px;
+}
+
+.feature-heading {
+  font-size: 22px;
+  font-weight: bold;
+  color: #388e3c; /* Another green shade */
+  margin-bottom: 10px;
+}
+
+.feature-list {
+  list-style-type: none;
+  padding: 0;
+  font-size: 18px;
+}
+
+.feature-list li {
+  margin: 12px 0;
+}
+
+.feature-list li strong {
+  color: #00796b; /* Teal for feature emphasis */
+}

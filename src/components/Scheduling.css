@@ -1,0 +1,35 @@
+/* src/components/Scheduling.css */
+.scheduling-container {
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.schedule-button, .clear-schedule-button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.schedule-button:hover, .clear-schedule-button:hover {
+  background-color: #45a049;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}

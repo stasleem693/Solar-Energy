@@ -1,0 +1,19 @@
+/* src/components/Sidebar.css */
+
+.sidebar {
+    background-color: white; /* Change background to white */
+    color: #004d40; /* Dark teal color for text */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 100vh; /* Full height for the sidebar */
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin: 15px 0;
+  }
+  

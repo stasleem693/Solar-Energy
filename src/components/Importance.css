@@ -1,0 +1,36 @@
+/* src/components/Importance.css */
+.importance-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+}
+
+.importance-image {
+    width: 100%; /* Adjust as needed */
+    height: auto;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #333; /* You can customize this color */
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #4CAF50; /* Button color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049; /* Darker button color on hover */
+}

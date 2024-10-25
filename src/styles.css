@@ -1,0 +1,28 @@
+/* src/styles.css */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #4CAF50; /* Green background */
+    padding: 10px;
+    color: white;
+}
+
+.container {
+    padding: 20px;
+}
+
+.login-container, .reports-container, .dashboard-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
